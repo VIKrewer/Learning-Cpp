@@ -10,6 +10,6 @@ int main(){
     std::cout << food[0] << " Costs " << std::setprecision(2) << std::fixed << prices[0] << "\n";
     std::cout << food[1] << " Costs " << std::setprecision(2) << std::fixed << prices[1] << "\n";
     std::cout << food[2] << " Costs " << std::setprecision(2) << std::fixed << prices[2] << "\n";
-
+    
     return 0;
 }

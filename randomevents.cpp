@@ -18,7 +18,7 @@ int main(){
         case 5: std::cout << "You win a Legendary Aura";
             break;
 
-        default: std::cout << "Bug."
+        default: std::cout << "Bug.";
             break;
     }
 

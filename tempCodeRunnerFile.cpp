@@ -1,0 +1,1 @@
+// Check spaces[number - 1]
